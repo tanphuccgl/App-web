@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "218963153959",
+    "project_id": "webapp-e5f8c",
+    "storage_bucket": "webapp-e5f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218963153959:android:d6731060778455eb446a02",
+        "android_client_info": {
+          "package_name": "com.levi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218963153959-bdal4n7jmjhakd8un2asluaim651eats.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcbO8i5OYfj3MmAFgNTWiD1O4PFch1wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218963153959-bdal4n7jmjhakd8un2asluaim651eats.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218963153959:android:704b9334b89b73be446a02",
+        "android_client_info": {
+          "package_name": "com.wile.appweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218963153959-bdal4n7jmjhakd8un2asluaim651eats.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcbO8i5OYfj3MmAFgNTWiD1O4PFch1wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218963153959-bdal4n7jmjhakd8un2asluaim651eats.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
