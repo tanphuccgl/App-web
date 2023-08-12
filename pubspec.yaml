@@ -40,6 +40,9 @@ dependencies:
   cloud_firestore: ^4.8.4
   equatable: 2.0.5
   flutter_bloc: ^8.1.2
+  http: ^0.13.3
+  network_info_plus: ^4.0.2
+
 
 
 dev_dependencies:
